@@ -1,0 +1,1 @@
+# 1st International Workshop on Industrial Control Systems and Critical Infrastructure Security, in collaboration with IEEE Military Communications Conference (MILCOM)’25
